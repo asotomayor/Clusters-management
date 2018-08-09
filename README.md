@@ -1,6 +1,9 @@
 # Clusters-management
-YARN capacity-scheduler configuration
+
+YARN capacity-scheduler configuration.
+
 Actividad correspondiente al módulo 5 del Máster de Big Data y Business Analytics.
+
 La actividad consiste en configurar las colas desde Ambari (distribución de Hadoop Hortonworks) y obtener el archivo capacity.scheduler.xml con las propiedades configuradas de acuerod al suigiente caso supuesto:
 
 La estructura de colas a implementar es:
